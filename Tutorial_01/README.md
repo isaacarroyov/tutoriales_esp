@@ -3,7 +3,7 @@
 ## Contenido
 En esta carpeta se encuentra:
 
-* Un tutorial de como realicé las visualizaciones de datos del artículo de Medium [**Ver el mundo desde tu casa: Tutorial introductorio a las imágenes satelitales**]() :arrow_right: (Tutorial_01_EE_tacosdedatos.ipynb)[]
+* Un tutorial de como realicé las visualizaciones de datos del artículo de Medium [**Ver el mundo desde tu casa: Tutorial introductorio a las imágenes satelitales**]() :arrow_right: (Tutorial_01_EE_tacosdedatos.ipynb)[https://github.com/isaacarroyov/tutoriales_esp/blob/main/Tutorial_01/Tutorial_01_EE_tacosdedatos.ipynb]
 * Los comandos de JavaScript que usé para la extracción de datos y visualización de mapas en el Editor de Código de Earth Engine.
 
 ## Requerimientos
