@@ -17,3 +17,5 @@ Así que si de casualidad tu también creas contenido en inglés y también eres
 Aquí se encuentran un índice de los tutoriales o proyectos que vaya haciendo:
 
 * **Ver el mundo desde tu casa: Tutorial introductorio a las imágenes satelitales** : El tutorial lo puedes encontrar [aquí](https://github.com/isaacarroyov/tutoriales_esp/tree/main/Tutorial_01).
+* **Spotipy: ¿Qué es? ¿Cómo se usa? ¿Con qué se come?**: [Blog en tacosdedatos.com](https://www.tacosdedatos.com/unisaacarroyov/spotipy-que-es-como-se-usa-con-que-se-come-jbn) y [Jupyter notebook](https://github.com/isaacarroyov/tutoriales_esp/blob/main/Tutorial_02/Tutorial_02_Spotipy_Instalacion_tacosdedatos.ipynb)
+* **Spotipy: Extraer características de canciones**: [Blog en tacosdedatos.com](https://www.tacosdedatos.com/unisaacarroyov/spotipy-extraer-caracteristicas-de-canciones-9km) y [Jupyter notebook](https://github.com/isaacarroyov/tutoriales_esp/blob/main/Tutorial_03/Tutorial_03_Spotipy_Extraer_Caracteristicas_Canciones_tacosdedatos.ipynb)
